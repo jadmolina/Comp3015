@@ -1,4 +1,3 @@
-Nombre del Proyecto
 Projecto Final comp3015
 
 Descripción

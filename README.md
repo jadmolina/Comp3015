@@ -26,5 +26,4 @@ cantidad: Cantidad disponible del producto.
 descripcion: Descripción del producto.
 
 
-Uso
 No se puede usar por los errores que no pude arreglar.

@@ -1,5 +1,5 @@
 Nombre del Proyecto
-Breve descripción del proyecto.
+Projecto Final comp3015
 
 Descripción
 Se intento de desarrollar una aplicación Web que permite realizar los procesos de CRUD en una base de
@@ -29,6 +29,3 @@ descripcion: Descripción del producto.
 
 Uso
 No se puede usar por los errores que no pude arreglar.
-
-Contribución
-Indica si aceptas contribuciones al proyecto y cómo los colaboradores pueden contribuir.
